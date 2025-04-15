@@ -1,11 +1,12 @@
 # Velocity 💨
 
 **Velocity**는 **2D 플랫포머 퍼즐 게임**입니다. 
+🚀**퍼즐과 모험**이 가득한 세계로 뛰어드세요!
 
 ![GIF](preview1.gif) 
 
-🚀복잡한 퍼즐을 아름답게 헤쳐나가보세요!
+## 시작하기
 
-![PNG](preview1.png)
+게임 빌드는 [여기](https://github.com/goalgoloo1/KJ3-W03/releases/tag/1.0.0)에서 다운로드해주세요.
 
 
