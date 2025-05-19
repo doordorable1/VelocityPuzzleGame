@@ -7,7 +7,7 @@
 
 ## 시작하기
 
-게임 빌드는 [여기](https://github.com/doordorable1/KJ3-W03/releases/tag/1.0.0)에서 다운로드 가능합니다! ✨
+게임 빌드는 [여기](https://github.com/doordorable1/VelocityPuzzleGame/releases/tag/1.0.0)에서 다운로드 가능합니다! ✨
 
 
 
